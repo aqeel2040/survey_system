@@ -158,7 +158,6 @@ function App() {
             </div>
             <input type="search" placeholder="Search" aria-describedby="button-addon4" className="form-control p-0 bg-none border-0"></input>
           </div>
-
           <div className='menu'>
             <h6 className='mt-4'>MENU</h6>
             <ul className="list-unstyled">
